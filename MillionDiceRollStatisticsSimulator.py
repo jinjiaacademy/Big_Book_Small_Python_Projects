@@ -14,3 +14,4 @@ approach. In this program, you tell the computer to roll N dice one million time
 remember the results. It then displays the percentage chance of each sum.
 This program does a massive amount of computation, but the computation itself isn't hard
 to understand.
+"""
