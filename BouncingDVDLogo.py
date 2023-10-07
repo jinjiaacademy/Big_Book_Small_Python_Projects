@@ -1,5 +1,5 @@
 """
-Simulates the colorful bouncing DVD logo of decades past.
+Project 5, Bouncing DVD Logo: Simulates the colorful bouncing DVD logo of decades past.
 Work with coordinates and colorful text.
 
 If you are of a certain age, you'll remember those ancient technological devices called
